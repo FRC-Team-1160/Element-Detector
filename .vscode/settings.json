@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/brianchen/Downloads/jython-standalone-2.7.3.jar"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
